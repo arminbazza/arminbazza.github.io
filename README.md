@@ -16,7 +16,7 @@ bundle show al_folio_core
 | --- | --- |
 | Homepage bio, subtitle, cover photo | `_pages/about.md` |
 | Publications | `_bibliography/papers.bib` |
-| CV page | `_data/cv.yml` (and `assets/pdf/ArminBazarjani_CV.pdf` for the download) |
+| CV page | `_data/cv.yml` (and `assets/pdf/ArminBaz_Resume.pdf` for the download) |
 | Social icons | `_data/socials.yml` |
 | Venue badge colors on the publications page | `_data/venues.yml` |
 | Site title, name, feature toggles | `_config.yml` |
